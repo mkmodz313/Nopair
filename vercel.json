@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/pair", "destination": "/api/pair.js" },
+    { "source": "/qr", "destination": "/api/qr.js" }
+  ]
+}
